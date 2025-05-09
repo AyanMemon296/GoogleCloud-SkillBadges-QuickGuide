@@ -1,3 +1,5 @@
+<!-- © 2025 Ayan Memon. Protected under CC BY-NC-ND 4.0. Do not copy or modify. -->
+
 # 🚀 Google Cloud Skill Badges Ultimate Quick Guide
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-blue?logo=googlecloud)
@@ -239,6 +241,15 @@ These badges offer the **best balance between fewer labs and minimum credits**, 
 
 ---
 
+## 🛡️ License & Copyright
+
+This repository is protected under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+🚫 **Copying, redistributing, or modifying this content is strictly prohibited** without prior written permission.  
+© 2025 Ayan Memon. All rights reserved. 🔒
+<!-- © 2025 Ayan Memon. Protected under CC BY-NC-ND 4.0. Do not copy or modify. -->
+
+---
+
 ## 📢 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayan%20Memon-blue?logo=linkedin)](https://www.linkedin.com/in/ayanmemon296)  
@@ -254,6 +265,7 @@ These badges offer the **best balance between fewer labs and minimum credits**, 
 > 🙏 **Respect the work, don’t copy-paste without giving credit — it takes hours of research.**
 
 ---
+<!-- © 2025 Ayan Memon. Protected under CC BY-NC-ND 4.0. Do not copy or modify. -->
 
 ## ⭐ If you find this useful...
 
