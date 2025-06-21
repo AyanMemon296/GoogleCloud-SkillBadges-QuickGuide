@@ -236,6 +236,8 @@ Some of the skill badges may include **repeated labs**, which you may have alrea
 | 68  | Implement Cloud Security Fundamentals on Google Cloud | [Link](https://www.cloudskillsboost.google/course_templates/645) | 20      | 8    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWM8AOEq5MplvJlszLFRbdS8) |
 | 69  | Prepare Data for ML APIs on Google Cloud              | [Link](https://www.cloudskillsboost.google/course_templates/631) | 13      | 9    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWM6cS57g857OdZhHSlcOTAe) |
 
+✨ Here we have completely categorized all 85 skill badges in efficient and organized way.
+
 ---
 
 ## 🧠 Solution Resources
