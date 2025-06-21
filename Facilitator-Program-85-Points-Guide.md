@@ -90,11 +90,22 @@
 
 ---
 
-## 🔗 Useful Links
+## 🔗 Useful References
 
-- 📚 [🎯 Skill Badges Quick Guide Repo](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide)
-- 🗺️ [🛣️ Google Cloud Arcade Roadmap](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide/blob/main/RoadMap.md)
-- 📘 [📥 Daily Lab Limits Guide (PDF)](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide/blob/main/Daily_Lab_Limit.pdf)
+* 📚 **Google Cloud Skill Badges Ultimate Quick Guide Repo:**
+  [GoogleCloud-SkillBadges-QuickGuide](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide)
+
+* 🗺️ **Google Cloud Skills Boost Arcade Program Roadmap:**
+  [RoadMap.md](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide/blob/main/RoadMap.md)
+
+* 🏆 **Arcade Legend 85 Points Guide:**
+  [Facilitator-Program-85-Points-Guide.md](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide/blob/main/Facilitator-Program-85-Points-Guide.md)
+
+* 📅 **Daily Lab Limits Guide:**
+  [Daily\_Lab\_Limit.pdf](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide/blob/main/Daily_Lab_Limit.pdf)
+
+* 🛣️ **My Arcade Legend Journey:**
+  [Arcade-Legend-Journey.md](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide/blob/main/Arcade-Legend-Journey.md)
 
 ---
 
