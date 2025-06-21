@@ -68,24 +68,30 @@ After collecting 15–17 badges, you’ll understand how badges and credits work
 
 ---
 
+## 🔗 Useful References
+
+* 📚 **Google Cloud Skill Badges Ultimate Quick Guide Repo:**
+  [GoogleCloud-SkillBadges-QuickGuide](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide)
+
+* 🗺️ **Google Cloud Skills Boost Arcade Program Roadmap:**
+  [RoadMap.md](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide/blob/main/RoadMap.md)
+
+* 🏆 **Arcade Legend 85 Points Guide:**
+  [Facilitator-Program-85-Points-Guide.md](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide/blob/main/Facilitator-Program-85-Points-Guide.md)
+
+* 📅 **Daily Lab Limits Guide:**
+  [Daily\_Lab\_Limit.pdf](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide/blob/main/Daily_Lab_Limit.pdf)
+
+* 🛣️ **My Arcade Legend Journey:**
+  [Arcade-Legend-Journey.md](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide/blob/main/Arcade-Legend-Journey.md)
+
+---
+
 ## 🎁 Bonus Tips
 
 - 🎯 **Track Your Points:** Check your Arcade Profile for current points and badge progress
 - 📆 **Plan Weekly:** Use your daily lab limits wisely across the week
 - ⏱️ **Set Reminders:** For new event openings and challenge deadlines
-- 🧼 **Clear Labs Properly:** Don’t just complete, **make sure the lab is graded successfully**
-- 📈 **Keep Proofs:** Download all badges/certificates just in case (for swags or records)
-
----
-
-## 🚀 Goal: Earn Swags!
-
-To become swag-eligible:
-- 🎓 Complete required events + skill badges
-- 🏆 Reach the **Arcade Points** target shown in your dashboard
-- 🎯 Follow the timeline and complete before the program ends
-
-Keep grinding, learning, and winning! 💪🌐
 
 ---
 
