@@ -133,7 +133,6 @@ If you've participated in Arcade events like:
 ---
 ---
 
-
 # 💡 Least Labs + Lowest Credits Skill Badges
 
 > ⚠️ **Note:** This section is still under review. I haven’t fully tested or verified all entries yet.  
@@ -146,90 +145,128 @@ If you've participated in Arcade events like:
 
 These badges offer the **best balance between fewer labs and minimum credits**, making them ideal for fast progress at low cost.
 
+Some of the skill badges may include **repeated labs**, which you may have already completed earlier during:
+
+* Events
+* Other skill badges
+
+### 🔁 How to Check and Skip Repeated Labs:
+
+* When starting any lab, look below the **lab title**.
+* If you see a **“Rate Lab”** button, that means you have already completed this lab.
+* **Always start the first lab manually** in every skill badge.
+* Once the first lab is started, **go back to the skill badge page and refresh it**.
+* Repeated labs will automatically show a ✅ tick, saving you time and credits.
+
+💡 **Follow the order** listed below. This order is optimized for **maximum lab reusability** — many labs repeat in later badges, allowing you to skip them efficiently.
+
+---
+
 ## 📋 Least Labs + Lowest Credits Skill Badges List
 
-| No. | Name                                                                 | Credits | Labs |
-|-----|----------------------------------------------------------------------|---------|------|
-| 1   | Get Started with Pub/Sub                                            | 2       | 3    |
-| 2   | Streaming Analytics into BigQuery                                   | 2       | 4    |
-| 3   | Integrate BigQuery Data and Google Workspace using Apps Script      | 2       | 4    |
-| 4   | Store, Process, and Manage Data on Google Cloud - Command Line      | 3       | 4    |
-| 5   | Store, Process, and Manage Data on Google Cloud - Console           | 3       | 4    |
-| 6   | Get Started with API Gateway                                        | 3       | 4    |
-| 7   | Create a Streaming Data Lake on Cloud Storage                       | 3       | 4    |
-| 8   | Get Started with Eventarc                                           | 3       | 4    |
-| 9   | Tag and Discover BigLake Data                                       | 3       | 4    |
-| 10  | Get Started with Dataplex                                           | 4       | 4    |
-| 11  | Monitor and Manage Google Cloud Resources                           | 4       | 4    |
-| 12  | Cloud Run Functions: 3 Ways                                         | 4       | 4    |
-| 13  | Get Started with Cloud Storage                                      | 4       | 4    |
-| 14  | App Engine: 3 Ways                                                  | 4       | 4    |
-| 15  | Create a Secure Data Lake on Cloud Storage                          | 4       | 4    |
-| 16  | Secure BigLake Data                                                 | 4       | 4    |
-| 17  | Get Started with Sensitive Data Protection                          | 4       | 4    |
-| 18  | Networking Fundamentals on Google Cloud                             | 4       | 4    |
-| 19  | The Basics of Google Cloud Compute                                  | 4       | 4    |
-| 20  | Use APIs to Work with Cloud Storage                                 | 4       | 4    |
-| 21  | Using the Google Cloud Speech API                                   | 4       | 4    |
-| 22  | Cloud Speech API: 3 Ways                                            | 4       | 4    |
-| 23  | Configure Service Accounts and IAM Roles for Google Cloud           | 4       | 4    |
-| 24  | Develop with Apps Script and AppSheet                               | 7       | 4    |
-| 25  | Automate Data Capture at Scale with Document AI                     | 8       | 4    |
-| 26  | Analyze Speech and Language with Google APIs                        | 8       | 4    |
-| 27  | Set Up a Google Cloud Network                                       | 8       | 4    |
-| 28  | Analyze Images with the Cloud Vision API                            | 12      | 4    |
-| 29  | Analyze Sentiment with Natural Language API                         | 12      | 4    |
-| 30  | Engineer Data for Predictive Modeling with BigQuery ML              | 15      | 4    |
-| 31  | Implement DevOps Workflows in Google Cloud                          | 16      | 4    |
-| 32  | Develop Serverless Apps with Firebase                               | 16      | 4    |
-| 33  | Secure Software Delivery                                            | 16      | 4    |
-| 34  | Protect Cloud Traffic with Chrome Enterprise Premium Security       | 16      | 4    |
-| 35  | Manage Kubernetes in Google Cloud                                   | 20      | 4    |
-| 36  | Build and Deploy Machine Learning Solutions on Vertex AI            | 20      | 4    |
-| 37  | Implement CI/CD Pipelines on Google Cloud                           | 20      | 4    |
-| 38  | Build Google Cloud Infrastructure for AWS Professionals             | 20      | 4    |
-| 39  | Build Google Cloud Infrastructure for Azure Professionals           | 20      | 4    |
-| 40  | Inspect Rich Documents with Gemini Multimodality and Multimodal RAG | 20      | 4    |
-| 41  | Migrate MySQL data to Cloud SQL using Database Migration Service    | 5       | 5    |
-| 42  | Mitigate Threats and Vulnerabilities with Security Command Center   | 5       | 5    |
-| 43  | Implement Load Balancing on Compute Engine                          | 5       | 5    |
-| 44  | Create and Manage Cloud SQL for PostgreSQL Instances                | 5       | 5    |
-| 45  | Create and Manage Cloud Spanner Instances                           | 5       | 5    |
-| 46  | Create and Manage Bigtable Instances                                | 5       | 5    |
-| 47  | Build a Data Mesh with Dataplex                                     | 5       | 5    |
-| 48  | Share Data Using Google Data Cloud                                  | 9       | 5    |
-| 49  | Monitor and Log with Google Cloud Observability                     | 9       | 5    |
-| 50  | Deploy and Manage Apigee X                                          | 9       | 5    |
-| 51  | Create ML Models with BigQuery ML                                   | 11      | 5    |
-| 52  | Monitor Environments with Google Cloud Managed Service for Prometheus | 13    | 5    |
-| 53  | Build a Website on Google Cloud                                     | 13      | 5    |
-| 54  | Develop GenAI Apps with Gemini and Streamlit                        | 20      | 5    |
-| 55  | Build a Data Warehouse with BigQuery                                | 25      | 5    |
-| 56  | Develop Serverless Applications on Cloud Run                        | 25      | 5    |
-| 57  | Optimize Costs for Google Kubernetes Engine                         | 25      | 5    |
-| 58  | Detect Manufacturing Defects using Visual Inspection AI             | 25      | 5    |
-| 59  | Create and Manage AlloyDB Instances                                 | 6       | 6    |
-| 60  | Develop your Google Cloud Network                                   | 18      | 6    |
-| 61  | Classify Images with TensorFlow on Google Cloud                     | 26      | 6    |
-| 62  | Develop and Secure APIs with Apigee X                               | 26      | 6    |
-| 63  | Build a Secure Google Cloud Network                                 | 30      | 6    |
-| 64  | Build Custom Processors with Document AI                            | 30      | 6    |
-| 65  | Cloud Architecture: Design, Implement, and Manage                   | 32      | 6    |
-| 66  | Derive Insights from BigQuery Data                                  | 6       | 7    |
-| 67  | Use Machine Learning APIs on Google Cloud                           | 31      | 7    |
-| 68  | Implement Cloud Security Fundamentals on Google Cloud               | 20      | 8    |
-| 69  | Prepare Data for ML APIs on Google Cloud                            | 13      | 9    |
+| No. | Name                                                           | Skill Badges Link                                                | Credits | Labs | Solution                                                                                                                                                                       |
+| --- | -------------------------------------------------------------- | ---------------------------------------------------------------- | ------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Get Started with Pub/Sub                                       | [Link](https://www.cloudskillsboost.google/course_templates/728) | 2       | 3    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxlKDof1PTI3W_PrHAnqomyX), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWO-MC7XHsNGZ_QTINetqXca) |
+| 2   | Streaming Analytics into BigQuery                              | [Link](https://www.cloudskillsboost.google/course_templates/752) | 2       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxmKuBiWSfy5tLo9wkc9Umf2), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWNhhDAcP1PZGsQauy-ION3k) |
+| 3   | Integrate BigQuery Data and Google Workspace using Apps Script | [Link](https://www.cloudskillsboost.google/course_templates/737) | 2       | 4    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWPdRFsmsRQ233yf3v3J3hGx)                                                                                           |
+| 4   | Store, Process, and Manage Data on Google Cloud - Command Line | [Link](https://www.cloudskillsboost.google/course_templates/659) | 3       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxlD9DfgTT3FLIBSC3YJTtHw), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWNdKf2qEiFS0KzVc5o5H90M) |
+| 5   | Store, Process, and Manage Data on Google Cloud - Console      | [Link](https://www.cloudskillsboost.google/course_templates/658) | 3       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxnGldwZuBbpJbnaO9r0Bt8M), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWOpaKFGfTSXt8NSxWS4929C) |
+| 6   | Get Started with API Gateway                                   | [Link](https://www.cloudskillsboost.google/course_templates/662) | 3       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxl8aEFgKF3oZILI8EDGWaWR), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWN7ah2suDk-iO8q0_vNpCDo) |
+| 7   | Create a Streaming Data Lake on Cloud Storage                  | [Link](https://www.cloudskillsboost.google/course_templates/705) | 3       | 4    | [Playlist](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxlFsSDgeUOnozaf4gTGK1eT)                                                                                           |
+| 8   | Get Started with Eventarc                                      | [Link](https://www.cloudskillsboost.google/course_templates/727) | 3       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxm0JHN_nlEBgihlKa-xPdua), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWOdfKKlIqgBsh6chYtGi-9E) |
+| 9   | Tag and Discover BigLake Data                                  | [Link](https://www.cloudskillsboost.google/course_templates/753) | 3       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxnwpQHrWCBJ_sEUgS2R_BWH), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWMGjggiFrQHRUXy3cLI3WQc) |
+| 10  | Get Started with Dataplex                                     | [Link](https://www.cloudskillsboost.google/course_templates/726)  | 4       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxlVLj_DYnbUEAovclS3_cEt), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWOL8WAfH5JOL8FEblPI36Zc) |
+| 11  | Monitor and Manage Google Cloud Resources                     | [Link](https://www.cloudskillsboost.google/course_templates/653)  | 4       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxkQcGDvUakpuoHCr_hE06Hx), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWNhDhuumg6bUff5lpyoHa1E) |
+| 12  | Cloud Run Functions: 3 Ways                                   | [Link](https://www.cloudskillsboost.google/course_templates/696)  | 4       | 4    | [Playlist](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxkPaGbvDTViF29NW2bz8a-w)                                                                                           |
+| 13  | Get Started with Cloud Storage                                | [Link](https://www.cloudskillsboost.google/course_templates/725)  | 4       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxlUaAQv0t6O23eG2VE74JKb), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWMAZD6_1lXDhxbSbVolOfyA) |
+| 14  | App Engine: 3 Ways                                            | [Link](https://www.cloudskillsboost.google/course_templates/671)  | 4       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxnGYYrNhyq5Xh7378OlWXDq), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWPXNvzi4m1t8mobb4uDEnbz) |
+| 15  | Create a Secure Data Lake on Cloud Storage                    | [Link](https://www.cloudskillsboost.google/course_templates/704)  | 4       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxkaQ-vUF8hSavJqJGzS_lQs), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWMBrg1uXlWVRDEjfuEQCC_t) |
+| 16  | Secure BigLake Data                                           | [Link](https://www.cloudskillsboost.google/course_templates/751)  | 4       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxme0p9jzWgg1GQ7WYS8iaGP), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWNl70H6msRHJ-KNuBYrpKKA) |
+| 17  | Get Started with Sensitive Data Protection                    | [Link](https://www.cloudskillsboost.google/course_templates/750)  | 4       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxn8GjDdJ7cQZknArGjLfWGO), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWNzXWJsVg_ERSL0d1u0hl-1) |
+| 18  | Networking Fundamentals on Google Cloud                       | [Link](https://www.cloudskillsboost.google/course_templates/748)  | 4       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxnEQ_vcjdCUlpj5ygNzsGol), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWNo4lXUyfKHn0l8HNYjjm_O) |
+| 19  | The Basics of Google Cloud Compute                            | [Link](https://www.cloudskillsboost.google/course_templates/754)  | 4       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxksK-JDSV-so-lnb6oR7KRU), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWNVHO-Tpgm_fmECqvf0wKMI) |
+| 20  | Use APIs to Work with Cloud Storage                           | [Link](https://www.cloudskillsboost.google/course_templates/755)  | 4       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxnwidnDKrl3rm2WeLbmWfhX), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWNQeWc_DtZai70is7K39pwV) |
+| 21  | Using the Google Cloud Speech API                             | [Link](https://www.cloudskillsboost.google/course_templates/756)  | 4       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxmcrotmrtMl4VVUBR9_T8fq), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWM_8eqZJikc1MxSDMMm9wuy) |
+| 22  | Cloud Speech API: 3 Ways                                      | [Link](https://www.cloudskillsboost.google/course_templates/700)  | 4       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxldr7yzDKZW1g_J1HEtaf2J), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWOr1vKdPY24a6UP6i5FOsRZ) |
+| 23  | Configure Service Accounts and IAM Roles                      | [Link](https://www.cloudskillsboost.google/course_templates/702)  | 4       | 4    | [Playlist](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxl6wlL1Ov1POtJwnl9vyozd)                                                                                           |
+| 24  | Develop with Apps Script and AppSheet                         | [Link](https://www.cloudskillsboost.google/course_templates/715)  | 7       | 4    | [Playlist](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxmHzFqDr1wImKs0yjvpJoeR)                                                                                           |
+| 25  | Automate Data Capture at Scale with Document AI               | [Link](https://www.cloudskillsboost.google/course_templates/674)  | 8       | 4    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWM1BkL1itkNvzvj-GSdbb65)                                                                                           |
+| 26  | Analyze Speech and Language with Google APIs                  | [Link](https://www.cloudskillsboost.google/course_templates/634)  | 8       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxlsCkp_xJK1akC2wP31pCOC), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWPIuEYJgcF3JSyTpkBnPH8z) |
+| 27  | Set Up a Google Cloud Network                                 | [Link](https://www.cloudskillsboost.google/course_templates/641)  | 8       | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxmLRq9G2_NUtcT3O1wwyTaW), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWMkO6LFfcOntvB6NeflhoZY) |
+| 28  | Analyze Images with the Cloud Vision API                      | [Link](https://www.cloudskillsboost.google/course_templates/633)  | 12      | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxnvc8bn0cugMd8vJz18RO4k), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWNsKM8reUYesytid6b498DG) |
+| 29  | Analyze Sentiment with Natural Language API                   | [Link](https://www.cloudskillsboost.google/course_templates/667)  | 12      | 4    | [Playlist](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxm0pRXNgJ_rONCejRa128JY)                                                                                           |
+| 30  | Engineer Data for Predictive Modeling with BigQuery ML        | [Link](https://www.cloudskillsboost.google/course_templates/627)  | 15      | 4    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWNP9cf8_Ifzw0YZLuL-RDwD)                                                                                           |
+| 31  | Implement DevOps Workflows in Google Cloud                    | [Link](https://www.cloudskillsboost.google/course_templates/716)  | 16      | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxkASnkXTl0NdZwtDv5pZBiR), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWOHWSjdrpBcjUKW5_n4c704) |
+| 32  | Develop Serverless Apps with Firebase                         | [Link](https://www.cloudskillsboost.google/course_templates/649)  | 16      | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxlyu1YTCIGQA2zBTSIXulUx), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWMPjIwle36VKPFVoYERBPN3) |
+| 33  | Secure Software Delivery                                      | [Link](https://www.cloudskillsboost.google/course_templates/1164) | 16      | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxnhCYpW7jYRUgNCyP7ABS6c), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWPqeHXkSu2FZw29J153zRbM) |
+| 34  | Protect Cloud Traffic with Chrome Enterprise Premium Security | [Link](https://www.cloudskillsboost.google/course_templates/784)  | 16      | 4    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWN9YMTeHDFdH3V5RJguSVeZ)                                                                                           |
+| 35  | Manage Kubernetes in Google Cloud                                     | [Link](https://www.cloudskillsboost.google/course_templates/783) | 20      | 4    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWNH_9DzSpwe3i-KA_ncGR1R)                                                                                           |
+| 36  | Build and Deploy Machine Learning Solutions on Vertex AI              | [Link](https://www.cloudskillsboost.google/course_templates/684) | 20      | 4    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWPvUsea1EsfaskiIxp27z9X)                                                                                           |
+| 37  | Implement CI/CD Pipelines on Google Cloud                             | [Link](https://www.cloudskillsboost.google/course_templates/691) | 20      | 4    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWP5O6sssQHhmqMF9CUdKcU1)                                                                                           |
+| 38  | Build Google Cloud Infrastructure for AWS Professionals               | [Link](https://www.cloudskillsboost.google/course_templates/687) | 20      | 4    | [Playlist](https://www.youtube.com/playlist?list=PLwk5HW8luxkzy-1IpVsoZtULkoje2gAeT)                                                                                           |
+| 39  | Build Google Cloud Infrastructure for Azure Professionals             | [Link](https://www.cloudskillsboost.google/course_templates/688) | 20      | 4    | [Playlist](https://www.youtube.com/playlist?list=PLwk5HW8luxkzL8owLyKtSAh2H6Wc9JnHU)                                                                                           |
+| 40  | Inspect Rich Documents with Gemini Multimodality and Multimodal RAG   | [Link](https://www.cloudskillsboost.google/course_templates/981) | 20      | 4    | [Playlist 1](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxnk58MNTVwh8Oitmn_ft5mH), [Playlist 2](https://www.youtube.com/playlist?list=PLHfVKuKwHnWMiU7eaoYGFb3sk_5X3zhYD) |
+| 41  | Migrate MySQL data to Cloud SQL using Database Migration Service      | [Link](https://www.cloudskillsboost.google/course_templates/629) | 5       | 5    | [Playlist](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxlg-65vYnpXDxYcSdLiygR4)                                                                                           |
+| 42  | Mitigate Threats and Vulnerabilities with Security Command Center     | [Link](https://www.cloudskillsboost.google/course_templates/759) | 5       | 5    | [Playlist](https://www.youtube.com/playlist?list=PLwk5HW8luxkx7psbO6xdqB0jqbfc7Ja5y)                                                                                           |
+| 43  | Implement Load Balancing on Compute Engine                            | [Link](https://www.cloudskillsboost.google/course_templates/648) | 5       | 5    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWPyt3tv2KoEpFInxpZ9laCe)                                                                                           |
+| 44  | Create and Manage Cloud SQL for PostgreSQL Instances                  | [Link](https://www.cloudskillsboost.google/course_templates/652) | 5       | 5    | [Playlist](https://www.youtube.com/playlist?list=PLwk5HW8luxkzwFsxbLlcewYpEhAiqguun)                                                                                           |
+| 45  | Create and Manage Cloud Spanner Instances                             | [Link](https://www.cloudskillsboost.google/course_templates/643) | 5       | 5    | [Playlist 1](https://www.youtube.com/playlist?list=PLHfVKuKwHnWPIb0gSIxllCLXtnYmwnGn3), [Playlist 2](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxlJvT7MqApKR9vl4EBkP-gT) |
+| 46  | Create and Manage Bigtable Instances                                  | [Link](https://www.cloudskillsboost.google/course_templates/650) | 5       | 5    | [Playlist](https://www.youtube.com/playlist?list=PLwk5HW8luxkxRoQImWGe7zpzlAOV_qdBV)                                                                                           |
+| 47  | Build a Data Mesh with Dataplex                                       | [Link](https://www.cloudskillsboost.google/course_templates/681) | 5       | 5    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWNEs2reA8P11xMHNRAGlpER)                                                                                           |
+| 48  | Share Data Using Google Data Cloud                                    | [Link](https://www.cloudskillsboost.google/course_templates/657) | 9       | 5    | [Playlist](https://www.youtube.com/playlist?list=PLwk5HW8luxky_k0b07qPW0_6jRs4Myxpa)                                                                                           |
+| 49  | Monitor and Log with Google Cloud Observability                       | [Link](https://www.cloudskillsboost.google/course_templates/749) | 9       | 5    | [Playlist 1](https://www.youtube.com/playlist?list=PLHfVKuKwHnWN1ie2wBOcUZhqpY1co1k1r), [Playlist 2](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxk9uL32cV4GjzMW5XShi8kM) |
+| 50  | Deploy and Manage Apigee X                                            | [Link](https://www.cloudskillsboost.google/course_templates/661) | 9       | 5    | [Playlist](https://www.youtube.com/playlist?list=PLwk5HW8luxkz37dJnLVFnPDO4c77XxLFJ)                                                                                           |
+| 51  | Create ML Models with BigQuery ML                                     | [Link](https://www.cloudskillsboost.google/course_templates/626) | 11      | 5    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWN5L95tdqss6fQuWrnfyevh)                                                                                           |
+| 52  | Monitor Environments with Google Cloud Managed Service for Prometheus | [Link](https://www.cloudskillsboost.google/course_templates/761) | 13      | 5    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWMc5BfsoTK2FU2Td3bwskGi)                                                                                           |
+| 53  | Build a Website on Google Cloud                                       | [Link](https://www.cloudskillsboost.google/course_templates/638) | 13      | 5    | [Playlist 1](https://www.youtube.com/playlist?list=PLHfVKuKwHnWPGZEJv2Z3fkXUSjNDaPe-x), [Playlist 2](https://www.youtube.com/playlist?list=PLjgJ9U8TlGxkQMLGaYyT5ol5-gsBots3N) |
+| 54  | Develop GenAI Apps with Gemini and Streamlit                          | [Link](https://www.cloudskillsboost.google/course_templates/978) | 20      | 5    | [Playlist](https://www.youtube.com/playlist?list=PLwk5HW8luxkxo4HPsl2WGvxtpYJCpqN4I)                                                                                           |
+| 55  | Build a Data Warehouse with BigQuery                                  | [Link](https://www.cloudskillsboost.google/course_templates/624) | 25      | 5    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWPPlNzrtODt6rdHBtAUgCUZ)                                                                                           |
+| 56  | Develop Serverless Applications on Cloud Run                          | [Link](https://www.cloudskillsboost.google/course_templates/741) | 25      | 5    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWNbE_xavg4cier9ryrIeio9)                                                                                           |
+| 57  | Optimize Costs for Google Kubernetes Engine                           | [Link](https://www.cloudskillsboost.google/course_templates/655) | 25      | 5    | [Playlist](https://www.youtube.com/playlist?list=PLwk5HW8luxkwjeDSeu0IhGzn7B0tkeug4)                                                                                           |
+| 58  | Detect Manufacturing Defects using Visual Inspection AI               | [Link](https://www.cloudskillsboost.google/course_templates/644) | 25      | 5    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWP45uAgd-6MupUrsYSMR3DC)                                                                                           |
+| 59  | Create and Manage AlloyDB Instances                                   | [Link](https://www.cloudskillsboost.google/course_templates/642) | 6       | 6    | [Playlist](https://www.youtube.com/playlist?list=PLwk5HW8luxkwV59InGwVratlAs8oG1WtI)                                                                                           |
+| 60  | Develop your Google Cloud Network                     | [Link](https://www.cloudskillsboost.google/course_templates/625) | 18      | 6    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWN9_pekTNXErxk1oyINF-M3) |
+| 61  | Classify Images with TensorFlow on Google Cloud       | [Link](https://www.cloudskillsboost.google/course_templates/646) | 26      | 6    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWNysL8dZeTpyUJGCFxFP6JG) |
+| 62  | Develop and Secure APIs with Apigee X                 | [Link](https://www.cloudskillsboost.google/course_templates/714) | 26      | 6    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWP2-TDG_qlkFN-gZxMz8u1L) |
+| 63  | Build a Secure Google Cloud Network                   | [Link](https://www.cloudskillsboost.google/course_templates/654) | 30      | 6    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWNft5bafKzs9nR-IiZxSldR) |
+| 64  | Build Custom Processors with Document AI              | [Link](https://www.cloudskillsboost.google/course_templates/686) | 30      | 6    | [Playlist](https://www.youtube.com/playlist?list=PLwk5HW8luxkxLihAN_inD91R5BtAUi72P) |
+| 65  | Cloud Architecture: Design, Implement, and Manage     | [Link](https://www.cloudskillsboost.google/course_templates/640) | 32      | 6    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWMzERPpBdQgeoQYmrPdR5px) |
+| 66  | Derive Insights from BigQuery Data                    | [Link](https://www.cloudskillsboost.google/course_templates/623) | 6       | 7    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWNSNkgCJJqa-b8ZThgBNzwK) |
+| 67  | Use Machine Learning APIs on Google Cloud             | [Link](https://www.cloudskillsboost.google/course_templates/630) | 31      | 7    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWP7BH0KeBZtQjHk18fR0kb7) |
+| 68  | Implement Cloud Security Fundamentals on Google Cloud | [Link](https://www.cloudskillsboost.google/course_templates/645) | 20      | 8    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWM8AOEq5MplvJlszLFRbdS8) |
+| 69  | Prepare Data for ML APIs on Google Cloud              | [Link](https://www.cloudskillsboost.google/course_templates/631) | 13      | 9    | [Playlist](https://www.youtube.com/playlist?list=PLHfVKuKwHnWM6cS57g857OdZhHSlcOTAe) |
 
 ---
+
+## 🧠 Solution Resources
+
+I have followed **three helpful YouTube channels** for lab walkthroughs. Their solution playlists are linked in the tables above.
+⚠️ Some videos may have been removed, but you can still search by lab name in their GitHub repositories:
+
+* **Arcade Crew GitHub:** [https://github.com/ArcadeCrew/Google-Cloud-Labs](https://github.com/ArcadeCrew/Google-Cloud-Labs)
+* **Guick GCP Lab GitHub:** [https://github.com/QUICK-GCP-LAB](https://github.com/QUICK-GCP-LAB)
+* **Techcps GitHub:** [https://github.com/Techcps](https://github.com/Techcps)
+
+> 🔔 However, I still recommend completing labs by yourself by following the **official lab instructions**. Use the videos only as **references or troubleshooting guides**.
+
 ---
 
-✨ Here we have completely categorized all 85 skill badges in efficient and organized way.
+## 🔗 Useful References
 
-🗺️ **Plan Your Path:**  
-🔗 Check out the [**RoadMap.md**](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide/blob/main/RoadMap.md) — your personal guide with milestones and progress tracking.
+* 📚 **Google Cloud Skill Badges Ultimate Quick Guide Repo:**
+  [GoogleCloud-SkillBadges-QuickGuide](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide)
 
-📅 **Optimize Your Lab Usage:**  
-🔗 Explore the [**Daily_Lab_Limit.pdf**](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide/blob/main/Daily_Lab_Limit.pdf) — learn how to make the most of your daily lab limits.
+* 🗺️ **Google Cloud Skills Boost Arcade Program Roadmap:**
+  [RoadMap.md](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide/blob/main/RoadMap.md)
+
+* 🏆 **Arcade Legend 85 Points Guide:**
+  [Facilitator-Program-85-Points-Guide.md](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide/blob/main/Facilitator-Program-85-Points-Guide.md)
+
+* 📅 **Daily Lab Limits Guide:**
+  [Daily\_Lab\_Limit.pdf](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide/blob/main/Daily_Lab_Limit.pdf)
+
+* 🛣️ **My Arcade Legend Journey:**
+  [Arcade-Legend-Journey.md](https://github.com/AyanMemon296/GoogleCloud-SkillBadges-QuickGuide/blob/main/Arcade-Legend-Journey.md)
 
 ---
 ---
