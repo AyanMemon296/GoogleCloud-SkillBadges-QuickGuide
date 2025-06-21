@@ -1,5 +1,4 @@
 # 🏆 Arcade Legend Journey – April 2025 Facilitator Program  
-**By Ayan Memon**
 
 🎯 **Target Achieved: 85 Arcade Points**  
 ✅ **Badge Count: 102 (54 Skill + 18 Lab-Free + 30 Event Badges)**  
