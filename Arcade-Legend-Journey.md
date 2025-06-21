@@ -168,7 +168,7 @@ These don’t give points but are required for milestones and helpful for unders
 ## 📅 Season Timeline & Reward Info
 
 - 🗓️ **Arcade Season 1**: January to June 2025  
-- 🏁 **Prize Redemption Opens**: Last Week of June 2025  
+- 🏁 **Prize Redemption Opens**: First Week of July 2025  
 - 🏆 **Tier Achieved**: **Arcade Legend**  
 - 🎁 **Eligible for Swags / Vouchers** (based on Google Cloud regional policies)
 
@@ -206,10 +206,11 @@ These don’t give points but are required for milestones and helpful for unders
 ## 🚫 Usage & Copyright Notice
 
 All content in this repository is created and owned by **Ayan Memon**.  
-Any kind of copying, re-uploading, or redistribution without proper credit or permission is strictly prohibited.  
-If copied content is found (including partial or modified versions), **strict action will be taken**, including DMCA takedown requests.
 
-This repository is protected under the license provided in the repository.
+❌ Copying, re-uploading, or redistributing any part of this content without permission is strictly prohibited.  
+📌 Any unauthorized use may result in a **DMCA takedown** or other **appropriate action**.
+
+✅ This repository is protected under the included license.
 
 ---
 
