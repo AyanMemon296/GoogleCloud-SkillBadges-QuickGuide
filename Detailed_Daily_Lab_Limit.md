@@ -74,10 +74,34 @@ Let's see how it works with a real-world example:
 
 ---
 
+## 🎯 A Smart Strategy for Arcade Players (Using Daily Labs & Credits)
+
+This is a safe strategy to make sure you use your labs efficiently and protect your daily limit.
+
+### 1. First: Use Your 15 Daily Labs
+Focus on completing all the labs for the main **Arcade games first**. This includes:
+* Arcade Trivia
+* Level 1, 2, and 3 games
+* Basecamp games
+* Certification challenges
+* Any other "no-cost" Skill Badges that are part of the Arcade
+
+These labs are designed to use your **15 daily lab slots**.
+
+### 2. Second: Do Your "Credit" Skill Badges
+**After** you have used all 15 daily labs (and are in "Cooldown Mode"), **then** you should start working on any extra Skill Badges that require credits to play.
+
+### Why follow this order? 🛡️
+This is a **safety measure**. Based on my (Ayan) experience, the system can sometimes be buggy and might accidentally use one of your 15 daily lab slots for a credit-based lab, **even if you have credits to pay for it.**
+
+By using all 15 of your daily labs on the Arcade games first, you **guarantee** they are used for the correct purpose and are not wasted. This strategy clearly separates your "free" labs (from the daily limit) from your "paid" labs (from your credit balance).
+
+---
+
 ## ❓ Common Questions & Problems
 
 ### Q: What counts as a "lab"?
-**A:** Everything that says "Lab" in your activity log. This **includes** Skill Badge labs, Arcade Trivia labs, and any other activity you have to click "Start Lab" for, even if it's just a quiz.
+**A:** Everything that says "Lab" in your activity log. This **includes** Skill Badge labs (both free and credit-based), Arcade Trivia labs, and any other activity you have to click "Start Lab" for, even if it's just a quiz.
 
 ### Q: Is there a lab counter on the website?
 **A:** No. This is the most frustrating problem with the system. There is no official counter to show you "You have 8/15 labs remaining."
